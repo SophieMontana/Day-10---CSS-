@@ -1,0 +1,24 @@
+td, tr, table {
+    color:blue;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    color: purple;
+}
+
+p {
+    text-align: right;
+    font-size: 23px;
+}
+
+h2 {
+    text-decoration-line: overline;
+    color: darkgreen;
+    background-color: rgb(243, 180, 180);
+
+}
